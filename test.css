@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(97, 96, 94, 0.373);
+}
+/* #test {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100%;
+    margin-top: 100;
+}  */
+li {
+    background-color: black;
+    color:aliceblue;
+    text-align: center;
+    margin-top: 30px;
+
+}
